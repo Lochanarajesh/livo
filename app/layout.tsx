@@ -3,7 +3,7 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'StayOps AI — Hotel Operations',
+  title: 'LIVO — Hotel Operations',
   description: 'A unified workspace for hotel operations, guest messaging, and sales.',
   generator: 'v0.app',
 }
