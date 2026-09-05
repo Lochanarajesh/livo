@@ -1,7 +1,7 @@
 'use client'
 
-import { Dashboard } from '../page'
+import { AppShell } from '../page'
 
 export default function DashboardPage() {
-  return <Dashboard />
+  return <AppShell initialSection="Dashboard" />
 }
